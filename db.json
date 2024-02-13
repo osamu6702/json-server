@@ -1,0 +1,81 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "fname": "Osamu",
+            "lname": "Eguchi",
+            "email": "osamu6702@gmail.com",
+            "password": "12345678",
+            "password_confirmation": "12345678",
+            "phone": "0802376848",
+            "address": "THAI"
+        },
+        {
+            "id": 2,
+            "fname": "Elon ",
+            "lname": "Musk",
+            "email": "elon@gmail.com",
+            "password": "12345678",
+            "password_confirmation": "12345678",
+            "phone": "0254052574",
+            "address": "USA"
+        },
+        {
+            "id": 3,
+            "fname": "Bill",
+            "lname": "Gate",
+            "email": "bill@gmail.com",
+            "password": "12345678",
+            "password_confirmation": "12345678",
+            "phone": "4689656797",
+            "address": "USA"
+        },
+        {
+            "id": 4,
+            "fname": "Jeff",
+            "lname": "Beszos",
+            "email": "jeff@gmail.com",
+            "password": "12345678",
+            "password_confirmation": "12345678",
+            "phone": "0467979746",
+            "address": "USA"
+        },
+        {
+            "id": 5,
+            "fname": "Jack",
+            "lname": "ma",
+            "email": "jack@gmail.com",
+            "password": "12345678",
+            "password_confirmation": "12345678",
+            "phone": "7878787879",
+            "address": "china"
+        }
+    ],
+    "marionette": [
+        {
+            "id": 1,
+            "name": "Gorilla Glue",
+            "location": "Gorilla Glue is a hybrid weed strain made from a genetic cross between Chem’s Sister, Sour Dubb, and Chocolate Diesel. This strain is 37% sativa and 63% indica. “Gorilla Glue”, also known as “Original Glue” or “GG4”, is a potent strain that delivers heavy-handed euphoria and relaxation, leaving you feeling “glued” to the couch. Its chunky, resin-covered buds fill the room with pungent earthy and sour aromas inherited from its parent strains. Gorilla Glue is 20% THC, making this strain an ideal choice for experienced cannabis consumers. Leafly customers tell us Gorilla Glue effects include feeling relaxed, sleepy, and hungry.",
+            "imageUrl": "https://scontent.fbkk21-1.fna.fbcdn.net/v/t39.30808-6/410582777_2148090068883471_8461679264950680515_n.jpg?stp=c0.169.1536.1536a_dst-jpg_s851x315&_nc_cat=107&ccb=1-7&_nc_sid=3d9721&_nc_eui2=AeF2_cgVNyLbLLS98ndaQ0Mg3Tv9z0s_vQbdO_3PSz-9BnBLIIf_eH1RkTWeLobk_PvslVZxwH6Jj5IDH4RIFQey&_nc_ohc=oEaZZnua308AX-No7FY&_nc_ht=scontent.fbkk21-1.fna&oh=00_AfDR15Dtg-aPQeSWscoaNZiP8b_M9afPTxtjcFJhXhLH3g&oe=65CF2768"
+        },
+        {
+            "id": 2,
+            "name": "PARADISO",
+            "location": "Paradiso is a heavenly hybrid strain made from a genetic cross of Purple Push Pop and Cap Junkie, and bred by cannabis icons Seed Junky and Capulator for Maven Genetics. Birds of paradise? Try buds of paradise, with dense structures and streaks of purple and green. Paradiso emits a tropical profile with gas, pepper, and earth. This strain imbues a relaxing euphoria, ideal for socializing and arousing pursuits, and can help medical patients with symptoms of depression. If you’ve smoked, dabbed, or consumed Paradiso, tell us about your experience by leaving a strain review.",
+            "imageUrl": "https://scontent.fbkk21-1.fna.fbcdn.net/v/t39.30808-6/422215498_2174200696272408_2229065950461468093_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeFI55Qayj8qiHJ5RT1dnGNsH4Lp4OPqFkIfgung4-oWQj1OVRryduzz-2rMizKnQPguoaEhhn3kxtJKsz8nhQ3l&_nc_ohc=FGnr70dwr0MAX93fQ8z&_nc_ht=scontent.fbkk21-1.fna&oh=00_AfC3By_AGqezE0xkpJHKWJuq5d23PPypTu53HSpE9J4QVA&oe=65D09BC9"
+        },
+        {
+            "id": 3,
+            "name": "Tropical Mentos S1",
+            "location": "Tropical Mentos  is another original creation from Copy Cat Genetics(Tropical Runtz x Mentos reversal )....hunted and reversed in house then bred to herself to make s1's of the keeper pheno.insane bag appeal  with heavy  hard rock yields,  frost monster, Candy , Kush, terps,delicious potent smoke THC  39-41%TOTAL CANNABINOIDS Over 42%CBN  0-1%YIELD  largeFLOWERING TIME 56 days TERPENE PROFILE  Sour  Candy, Fruity, Skunky, og gas",
+            "imageUrl": "https://scontent.fbkk21-1.fna.fbcdn.net/v/t39.30808-6/420043651_2170185273340617_5694809801251669900_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeFdC6hirmIg7mQIUpE7fs_8HjseTOeU0CgeOx5M55TQKHkk2eJxA3QIakYYqLXSu1KWpMU9h3KM86WkMSUSAvqL&_nc_ohc=MLZARinlOgAAX-cQKvg&_nc_ht=scontent.fbkk21-1.fna&oh=00_AfAzDyROLJYMwGOx8u6BRq9NiltZJEEiz9CWDCODK-75nQ&oe=65CF4ABA"
+        },
+        {
+            "id": 4,
+            "name": "Blackberry Oreo Big Stuff S1",
+            "location": "Black Berry Oreo Big Stuff is another original creation from Copy Cat Genetics(Black Berry Mochi x Oreo big stuff  reversal)....hunted and reversed in house then bred to herself to make s1's of the keeper pheno.insane bag appeal  -  Black Berries, Rotten berries, fruit bowls, slight funk extremely loudabsolutely a frosty beast. THC  40-4TOTAL CANNABINOIDS Over 43% CBN  2% YIELD  heavy / large3 x stretch in flowerFLOWERING TIME 49-56 days  TERPENE PROFILE   Black Berries, Rotten berries, fruit bowls, slight funk",
+            "imageUrl": "https://scontent.fbkk21-1.fna.fbcdn.net/v/t39.30808-6/420030346_2170185423340602_6337325433474607206_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeH2usjfZwak6qD6K4ydH2twLsislZVqbWwuyKyVlWptbFwpq7zUYSdf37JTFBwyfdIEW5HMeodOghFy08L-uGEA&_nc_ohc=P0jZYGO0D0EAX_9dJ_G&_nc_ht=scontent.fbkk21-1.fna&oh=00_AfCAs6mX7R9WR-2VrGvY8zhj-mKdO-4VL7zhAmO8u05UAQ&oe=65CFF997"
+        }
+        
+    ]
+}
